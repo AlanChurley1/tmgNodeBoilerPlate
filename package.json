@@ -1,0 +1,19 @@
+{
+  "name": "tmg_node_boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanChurley1/tmgNodeBoilerPlate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanChurley1/tmgNodeBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/AlanChurley1/tmgNodeBoilerPlate#readme"
+}
