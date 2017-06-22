@@ -63,3 +63,7 @@ full documentation is avaliable at https://expressjs.com/en/api.html#express.rou
 ### Static assets
 
 Any static assets that are to be served "as is", should be placed inside the app/static folder. Sub folders are served using the same folder structure as they are in the file system
+
+### Tests
+
+Tests are currently built using node assert as the main test tool, please see documentation at https://nodejs.org/api/assert.html
